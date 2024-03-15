@@ -6,7 +6,7 @@
 
 - 🔭 Je travaille actuellement **sur un site web de vente de matériel informatique utilisant Node.js, Express.js, AlwaysData, DBeaver, JavaScript, React.js et Chakra-UI, avec le framework Vite.**
 
-- 🌱 Je suis actuellement **en train d'apprendre Java, React, Next.js et TypeScript.**
+- 🌱 Je suis actuellement **en train d'apprendre Java et TypeScript.**
 
 - 💬  Posez-moi des questions **sur JavaScript et React.**
 
