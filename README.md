@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Bejjar Mehdi.</h1>
-<h3 align="center">A LA RECHERCHE D'UNE ALTERNANCE EN TANT QUE DÉVELOPPEUR WEB FULL STACK</h3>
+<h3 align="center"> DÉVELOPPEUR WEB FULL STACK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bejjarmehdi&label=Profile%20views&color=0e75b6&style=flat" alt="bejjarmehdi" /> </p>
 
